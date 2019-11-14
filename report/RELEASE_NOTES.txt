@@ -1,0 +1,16 @@
+Release Notes -- MAP Automated Report Services -- Version 2.2.1
+
+______________________
+2.2.1 Enhancements
+======================
+
+    - Save zip data export files as binary
+    - Updated path to config file
+    - enabled verbose curl info
+
+______________________
+2.2.0 Enhancements
+======================
+
+RESTFul interface for retrieving data export files
+    - Retrieve data file exports from the MAP system to a specified location
